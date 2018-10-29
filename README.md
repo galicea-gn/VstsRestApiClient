@@ -5,6 +5,7 @@ Posh module serving as a client to the VSTS Rest Api. It is the purpose of this 
 
 |Step| Status |
 |----|--------------|
+|AzureDevops|[![AzureDevops](https://dev.azure.com/GolfNOW/revolutiongolf/_apis/build/status/galicea-gn.vstsrestapiclient)]|
 |AppVeyor|[![AppVeyor](https://ci.appveyor.com/api/projects/status/5krn1gct8a0cyis1?svg=true)](https://ci.appveyor.com/project/PoshTamer/vstsrestapiclient)|
 |Travis|[![Travis](https://travis-ci.org/PoshTamer/VstsRestApiClient.svg?branch=add-tests-src)](https://travis-ci.org/PoshTamer/VstsRestApiClient)|
 |Pester Coverage|![Coverage](https://img.shields.io/badge/Coverage-93.87%25-brightgreen.svg)|
